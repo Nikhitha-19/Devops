@@ -1,3 +1,6 @@
+hihihihihi 
+ninin
+
 DevOps is a software development and IT methodology that combines people, processes, and technology to improve and speed up the development of systems. The term is a combination of the words "development" and "operations". 
 DevOps can help organizations:
 Improve software quality

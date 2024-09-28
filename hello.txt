@@ -1,0 +1,29 @@
+DevOps is a software development and IT methodology that combines people, processes, and technology to improve and speed up the development of systems. The term is a combination of the words "development" and "operations". 
+DevOps can help organizations:
+Improve software quality
+DevOps can help ensure that software is more reliable and of higher quality.
+Respond to customer needs
+DevOps can help organizations adapt to market changes more quickly and better meet customer needs.
+Increase job satisfaction
+DevOps can help automate repetitive tasks, allowing employees to focus on more meaningful work.
+Build security in
+DevOps can help integrate security into the development process from the start. 
+DevOps practices include: 
+Continuous delivery: A process for consistently and reliably deploying applications into production environments. 
+Continuous integration: A process that includes automated testing to help ensure the quality and reliability of software and infrastructure updates. 
+Monitoring and logging: A process that verifies performance in real time. 
+Automation: A process that can help manage development, testing, and production. 
+DevOps originated as a hashtag around 2007, and has since grown into a cultural movement in IT. 
+What is DevOps? - Atlassian
+DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software developm...
+
+Atlassian
+What is DevOps? - Amazon Web Services (AWS) - AWS
+DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver appli...
+
+AWS
+What Is DevOps? | IBM
+This process drives improvements, innovations and bug fixes to market sooner. It also allows organizations to adapt to market chan...
+
+IBM
+Show all
